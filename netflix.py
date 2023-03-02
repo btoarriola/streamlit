@@ -62,3 +62,5 @@ if (botonseleccion):
 if agree:
   
   st.dataframe(data)
+
+st.sidebar.image("Uv Anverso.png")
